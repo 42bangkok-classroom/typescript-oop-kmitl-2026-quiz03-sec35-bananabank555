@@ -8,4 +8,4 @@ export class Student {
     printName(): void {
         console.log(`${this.firstname} ${this.lastname}`);
     }
-}
+} 
